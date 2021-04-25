@@ -1,0 +1,33 @@
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\bin\Debug\GanoHesap.exe.config
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\bin\Debug\GanoHesap.exe
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\bin\Debug\GanoHesap.pdb
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.Form1.resources
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.exe
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.pdb
+C:\Users\Mehmet\Desktop\gano hesap\GanoHesap\GanoHesap\obj\Debug\GanoHesap.KullaniciSayfa.resources
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\bin\Debug\GanoHesap.exe.config
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\bin\Debug\GanoHesap.exe
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\bin\Debug\GanoHesap.pdb
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.Form1.resources
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.KullaniciSayfa.resources
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.exe
+C:\Users\Mehmet\Desktop\GanoHesap\GanoHesap\obj\Debug\GanoHesap.pdb
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\bin\Debug\GanoHesap.exe.config
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\bin\Debug\GanoHesap.exe
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\bin\Debug\GanoHesap.pdb
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csprojAssemblyReference.cache
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.Form1.resources
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.KullaniciSayfa.resources
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.Properties.Resources.resources
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csproj.GenerateResource.cache
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.csproj.CoreCompileInputs.cache
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.exe
+C:\Users\boyuk\OneDrive\Masaüstü\kodlar\gano hesab kod\GanoHesap\GanoHesap\obj\Debug\GanoHesap.pdb

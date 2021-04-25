@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanoHesap", "GanoHesap\GanoHesap.csproj", "{F72CC505-CC14-4081-9AA9-7FBD8D71EE90}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{C35B4DD6-E0AA-4D68-90BD-5621B58926B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72CC505-CC14-4081-9AA9-7FBD8D71EE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72CC505-CC14-4081-9AA9-7FBD8D71EE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72CC505-CC14-4081-9AA9-7FBD8D71EE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72CC505-CC14-4081-9AA9-7FBD8D71EE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35B4DD6-E0AA-4D68-90BD-5621B58926B4}.Debug|Any CPU.ActiveCfg = Debug
+		{C35B4DD6-E0AA-4D68-90BD-5621B58926B4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {323EB781-E04A-462C-9B53-2A7787875E6D}
+	EndGlobalSection
+EndGlobal
