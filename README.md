@@ -1,0 +1,1 @@
+# Gano_Hesaplama
