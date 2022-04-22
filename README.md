@@ -1,8 +1,5 @@
 # Gano_Hesaplama
 
-Tasarlayan:
-**Adı Soyadı** MEHMET BÖYÜK 
-
 
 # Gano Hesaplama Yazılımı
 --Not ekleme, silme, güncelleme yapabileceğiniz program.
